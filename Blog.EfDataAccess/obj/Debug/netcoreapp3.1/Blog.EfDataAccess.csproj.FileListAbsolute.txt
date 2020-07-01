@@ -1,0 +1,15 @@
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.AssemblyInfo.cs
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.EfDataAccess.deps.json
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.EfDataAccess.runtimeconfig.json
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.EfDataAccess.runtimeconfig.dev.json
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.EfDataAccess.dll
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.EfDataAccess.pdb
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.csproj.CopyComplete
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.dll
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.pdb
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.genruntimeconfig.cache
+C:\Users\Super kompjuter\source\repos\Blog\Blog.EfDataAccess\obj\Debug\netcoreapp3.1\Blog.EfDataAccess.csproj.CoreCompileInputs.cache
